@@ -1,0 +1,6 @@
+{
+    "ODOO_URL": "http://192.168.XX.XXX:8069",
+    "ODOO_DB": "aulora_test",
+    "ODOO_USERNAME": "user",
+    "ODOO_PASSWORD": "password"
+}
